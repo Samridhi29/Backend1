@@ -1,0 +1,1 @@
+export const DB_NAME = "videotube"  //not a system-specific variable, so not in env, not so sensitive
